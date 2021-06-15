@@ -46,3 +46,4 @@ class TestPageSearch:
         assert 'Mail' in self.driver.title
 
 # Для просмотра результатов тестов нужно в PowerShell набрать allure serve results
+# Установка allure https://www.youtube.com/watch?v=xdjN-4UxL1c
